@@ -102,6 +102,7 @@ You can download this or copy the codes and files from the repo, after that you 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- PREREQUISITES -->
 ### Prerequisites
 
 You will need to link the API to the file, you can go with any weather API present on the internet.
