@@ -76,7 +76,7 @@ This Project shows us the weather of any city present in the globe, just enter t
 
 I have used HTML for basic structure, CSS for some text, image formatting, and made this responsive and attractive using CSS and its elements. Also used Javascript for making my website behave or work as I wanted, and linked the weather API which tells us the weather. 
 
-Use the `BLANK_README.md` to get started.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,11 +100,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 You can download this or copy the codes and files from the repo, after that you will need a IDE/ text editor to paste their and save it as mentioned with respective names and file format.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Prerequisites
 
 You will need to link the API to the file, you can go with any weather API present on the internet.
  
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
